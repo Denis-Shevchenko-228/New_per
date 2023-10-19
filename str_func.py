@@ -5,3 +5,6 @@ def upper(x):
             upper_s.append(c)
 
     return "".join(upper_s)
+
+s = 'qwertyu iopasd fghjklz xcvbnm'
+print(s.title())
