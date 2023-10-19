@@ -6,5 +6,3 @@ def upper(x):
 
     return "".join(upper_s)
 
-s = 'qwertyu iopasd fghjklz xcvbnm'
-print(s.title())
